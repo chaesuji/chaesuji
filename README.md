@@ -15,14 +15,28 @@
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCodelogoColor=#FFFFFF"/>
 </div>
 
+## Communication
+<div>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=NotionlogoColor=#FFFFFF"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=SlacklogoColor=#FFFFFF"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=JiralogoColor=#FFFFFF"/>
+</div>
+
 <hr>
 
 ## Project
 
 ## Team Project
 ### 1차 프로젝트 
-투두리스트 만들기 <a href="">Click me</a>
+투두리스트 만들기 <a href="">Click me!</a>
 <br>
 캐릭터 성장을 통한 동기부여형 투두리스트 만들기
 - 담당 페이지 : 상세 페이지
 
+### 2차 ~ 3차 프로젝트
+식단 관리 서비스 <a href="">Click me!</a>
+<br>
+다이어트 목적만이 아닌 사용자들의 균형잡힌 식단관리를 위한 웹
+
+- 2차 프로젝트 담당 페이지 : 식단 입력 및 검색 페이지
+- 3차 프로젝트 담당 페이지 : 식단 추천, 게시판 기능 추가(식단 공유, 저장, 신고), 관리자 페이지 신고 조회 및 기능 처리
