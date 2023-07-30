@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=JiralogoColor=#FFFFFF"/>
 </div>
 
-<hr>
+<br><br>
 
 ## Project
 
