@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=JiralogoColor=#FFFFFF"/>
 </div>
 
-<br><br>
+<br>
 
 ## Project
 
@@ -33,6 +33,8 @@
 캐릭터 성장을 통한 동기부여형 투두리스트 만들기
 <a href="https://www.canva.com/design/DAFg-6bLQKk/ywpJVJ-wFGYsPlA2RXQ9JA/edit?utm_content=DAFg-6bLQKk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">1차 프로젝트 발표 PPT</a>
 - 담당 페이지 : 상세 페이지
+  
+<br>
 
 ### 2차 ~ 3차 프로젝트
 식단 관리 서비스 <a href="https://github.com/PHP-506-wdye/project-2">Click me!(Github)</a>
