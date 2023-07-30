@@ -28,13 +28,14 @@
 
 ## Team Project
 ### 1차 프로젝트 
-투두리스트 만들기 <a href="">Click me!</a>
+투두리스트 만들기 <a href="https://github.com/PHP-506-33/PHP_1STPJ">Click me!(Github)</a>
 <br>
 캐릭터 성장을 통한 동기부여형 투두리스트 만들기
+<a href="https://www.canva.com/design/DAFg-6bLQKk/ywpJVJ-wFGYsPlA2RXQ9JA/edit?utm_content=DAFg-6bLQKk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">1차 프로젝트 발표 PPT</a>
 - 담당 페이지 : 상세 페이지
 
 ### 2차 ~ 3차 프로젝트
-식단 관리 서비스 <a href="">Click me!</a>
+식단 관리 서비스 <a href="https://github.com/PHP-506-wdye/project-2">Click me!(Github)</a>
 <br>
 다이어트 목적만이 아닌 사용자들의 균형잡힌 식단관리를 위한 웹
 
