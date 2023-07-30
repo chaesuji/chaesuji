@@ -23,8 +23,6 @@
 
 <br>
 
-## Project
-
 ## Team Project
 ### 1차 프로젝트 
 투두리스트 만들기 <a href="https://github.com/PHP-506-33/PHP_1STPJ">Click me!(Github)</a>
