@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## FRONT
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5logoColor=#FFFFFF"/>
@@ -23,7 +21,6 @@
 
 ## Team Project
 ### 1차 프로젝트 
-<br>
 투두리스트 만들기 <a href="">Click me</a>
 <br>
 캐릭터 성장을 통한 동기부여형 투두리스트 만들기
