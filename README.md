@@ -22,7 +22,6 @@
 ## Project
 
 ## Team Project
-<br>
 # 1차 프로젝트 
 <br>
 투두리스트 만들기 <a href="">Click me</a>
