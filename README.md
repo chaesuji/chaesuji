@@ -24,15 +24,6 @@
 <br>
 
 ## Team Project
-### 1차 프로젝트 
-투두리스트 만들기 <a href="https://github.com/PHP-506-33/PHP_1STPJ">Click me!(Github)</a>
-<br>
-캐릭터 성장을 통한 동기부여형 투두리스트 만들기
-<a href="https://www.canva.com/design/DAFg-6bLQKk/ywpJVJ-wFGYsPlA2RXQ9JA/edit?utm_content=DAFg-6bLQKk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">1차 프로젝트 발표 PPT</a>
-- 담당 페이지 : 상세 페이지
-  
-<br>
-
 ### 2차 ~ 3차 프로젝트
 식단 관리 서비스 <a href="https://github.com/PHP-506-wdye/project-2">Click me!(Github)</a>
 <br>
@@ -40,6 +31,15 @@
 
 - 2차 프로젝트 담당 페이지 : 식단 입력 및 검색 페이지
 - 3차 프로젝트 담당 페이지 : 식단 추천, 게시판 기능 추가(식단 공유, 저장, 신고), 관리자 페이지 신고 조회 및 기능 처리
+
+<br>
+
+### 1차 프로젝트 
+투두리스트 만들기 <a href="https://github.com/PHP-506-33/PHP_1STPJ">Click me!(Github)</a>
+<br>
+캐릭터 성장을 통한 동기부여형 투두리스트 만들기
+<a href="https://www.canva.com/design/DAFg-6bLQKk/ywpJVJ-wFGYsPlA2RXQ9JA/edit?utm_content=DAFg-6bLQKk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">1차 프로젝트 발표 PPT</a>
+- 담당 페이지 : 상세 페이지
 
 ### 개인 공부용 블로그
 - <a href="https://blog.naver.com/chae00716">Click me!</a>
