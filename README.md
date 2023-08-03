@@ -44,7 +44,8 @@
 ### 1차 프로젝트 
 투두리스트 만들기 <a href="https://github.com/PHP-506-33/PHP_1STPJ">Click me!(Github)</a>
 <br>
-캐릭터 성장을 통한 동기부여형 투두리스트 만들기
+캐릭터 성장을 통한 동기부여형 투두리스트 만들기 
+<br>
 <a href="https://www.canva.com/design/DAFg-6bLQKk/ywpJVJ-wFGYsPlA2RXQ9JA/edit?utm_content=DAFg-6bLQKk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">1차 프로젝트 발표 PPT</a>
 - 담당 페이지 : 상세 페이지
 
