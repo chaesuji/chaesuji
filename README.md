@@ -25,7 +25,7 @@
 
 ## Project 
 <a href="https://github.com/chaesuji/mini_1">퓨어 PHP로 만든 게시판 (23.04.10 ~ 18)</a> <br>
-<a href="https://github.com/chaesuji/mini_2">퓨어 PHP(MVC)로 만든 여행 사이트(23.05.12 ~ 20, 수정중)</a>
+<a href="https://github.com/chaesuji/mini_2">퓨어 PHP(MVC)로 만든 여행 사이트(23.05.12 ~ 20, 수정중)</a> <br>
 <a href="https://github.com/chaesuji/mini_2">라라벨로 만든 게시판(23.05.26 ~ 06.14)</a>
 
 ## Team Project
