@@ -24,7 +24,7 @@
 <br>
 
 ## Project 
-<a href="https://github.com/chaesuji/mini_1">퓨어 PHP로 만든 게시판 (23.04.10 ~ 18)</a>
+<a href="https://github.com/chaesuji/mini_1">퓨어 PHP로 만든 게시판 (23.04.10 ~ 18)</a> <br>
 <a href="">sdfdgfg</a>
 
 ## Team Project
