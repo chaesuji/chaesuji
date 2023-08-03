@@ -30,6 +30,8 @@
   <li>라라벨로 만든 게시판(23.05.26 ~ 06.14) → <a href="https://github.com/chaesuji/mini_2">Click me!</a></li>
 </ul>
 
+<br>
+
 ## Team Project
 ### 2차 ~ 3차 프로젝트
 식단 관리 서비스 <a href="https://github.com/PHP-506-wdye/project-2">Click me!(Github)</a>
@@ -46,5 +48,5 @@
 <a href="https://www.canva.com/design/DAFg-6bLQKk/ywpJVJ-wFGYsPlA2RXQ9JA/edit?utm_content=DAFg-6bLQKk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">1차 프로젝트 발표 PPT</a>
 - 담당 페이지 : 상세 페이지
 
-### 개인 공부용 블로그
+## 개인 공부용 블로그
 - <a href="https://blog.naver.com/chae00716">Click me!</a>
