@@ -48,5 +48,7 @@
 <a href="https://www.canva.com/design/DAFg-6bLQKk/ywpJVJ-wFGYsPlA2RXQ9JA/edit?utm_content=DAFg-6bLQKk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">1차 프로젝트 발표 PPT</a>
 - 담당 페이지 : 상세 페이지
 
+<br>
+
 ## 개인 공부용 블로그
 - <a href="https://blog.naver.com/chae00716">Click me!</a>
