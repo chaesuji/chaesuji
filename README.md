@@ -26,7 +26,7 @@
 ## Project 
 <ul>
   <li>퓨어 PHP로 만든 게시판 (23.04.10 ~ 18) → <a href="https://github.com/chaesuji/mini_1">Click me!</a></li>
-  <li>퓨어 PHP(MVC)로 만든 여행 사이트(23.05.12 ~ 20, 수정중) → <a href="https://github.com/chaesuji/mini_2">Click me!</a></li>
+  // <li>퓨어 PHP(MVC)로 만든 여행 사이트(23.05.12 ~ 20, 수정중) → <a href="https://github.com/chaesuji/mini_2">Click me!</a></li>
   <li>라라벨로 만든 게시판(23.05.26 ~ 06.14) → <a href="https://github.com/chaesuji/mini_2">Click me!</a></li>
   <li>Vue.js로 만든 인스타그램(23.07.11 ~ 07.13) → <a href="https://github.com/chaesuji/PHPFullStack/tree/main/Vue/vuestargram">Click me!</a></li>
 </ul>
