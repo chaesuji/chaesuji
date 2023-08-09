@@ -40,6 +40,7 @@
 <ul>
   <li>2차 프로젝트 담당 페이지 : 식단 입력 및 검색 페이지</li>
   <li>3차 프로젝트 담당 페이지 : 식단 추천, 게시판 기능 추가(식단 공유, 저장, 신고), 관리자 페이지 신고 조회 및 기능 처리</li>
+  <li>API 매뉴얼 : <a href="https://docs.google.com/document/d/1XQEF0A3ZqKVzeFnXu3m6xYsHkFk_joIn4TEkwm3O-Ns/edit">Click me!(Google Docs)</a></li>
 </ul>
 
 ### 1차 프로젝트 
@@ -47,7 +48,7 @@
 <br>
 캐릭터 성장을 통한 동기부여형 투두리스트 만들기 
 <br>
-<a href="https://www.canva.com/design/DAFg-6bLQKk/ywpJVJ-wFGYsPlA2RXQ9JA/edit?utm_content=DAFg-6bLQKk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">1차 프로젝트 발표 PPT</a>
+<a href="https://www.canva.com/design/DAFg-6bLQKk/ywpJVJ-wFGYsPlA2RXQ9JA/edit?utm_content=DAFg-6bLQKk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">1차 프로젝트 발표 PPT(Canva)</a>
 <ul>
   <li>담당 페이지 : 상세 페이지</li>
 </ul>
